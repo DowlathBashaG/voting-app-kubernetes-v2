@@ -8,7 +8,7 @@
 
 3. Git clone 
 
-4. cd <projct-folder>
+4. cd projct-folder
   
 5. kubectl create -f .
 
