@@ -16,7 +16,7 @@
 
 7. kubectl get deployments
 
-8. kubectl get services
+8. kubectl get services    using cluster-ip expose to the world
 
    [ see new things.....(ie) EXTERNAL-IP
 
